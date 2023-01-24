@@ -217,6 +217,14 @@ padding: 1%;
     border: 0px;
     color: white;
 }
+#prev:hover{
+    background: black;
+    cursor: pointer;
+}
+#next:hover{
+    background: black;
+    cursor: pointer;
+}
 #gallery_btn{
     margin: 1% 0% 2% 45%;
     padding: 0.5%;
@@ -226,6 +234,10 @@ padding: 1%;
 #gallery_btn a{
     text-decoration: none;
     color: white;
+}
+#gallery_btn:hover{
+    background: black;
+    cursor: pointer;
 }
 
 
